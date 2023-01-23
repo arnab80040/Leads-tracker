@@ -1,0 +1,21 @@
+input{padding-left:10px; padding-right:10px; padding-bottom:10px; padding-top:10px; width:100%; box-sizing: border-box; border:1px solid green; border-radius:3px; margin:5px}
+
+
+#input-btn,#tab-btn{color:white; background-color:darkgreen; font-size:17px; border-radius:3px; font-weight:bold; padding:5px;margin:5px; border:none}
+
+#input-btn:hover, #tab-btn:hover{border:none; color:white; background-color:green; font-size:17px; border-radius:3px; font-weight:bold; padding:5px; margin:5px; cursor:pointer}
+
+body{margin:0; padding:10px; font-family: Arial, sans-serif; min-width:400px}
+
+ul{list-style-type:none; text-align:left; padding-left:0}
+
+a:link{color:green}
+
+li{text-align:left}
+
+a:hover{color:blue}
+
+#dlt-btn{color:green; background-color:white; font-size:17px; border-radius:3px; font-weight:bold; padding:5px;margin:5px; border:0.2px solid green; cursor:pointer}
+
+#dlt-btn:hover{color:green; background-color:rgb(240,240,240); font-size:17px; border-radius:3px; font-weight:bold; padding:5px;margin:5px; border: 0.2px solid green}
+
